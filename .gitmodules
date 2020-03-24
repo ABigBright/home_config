@@ -1,0 +1,9 @@
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/ABigBright/ranger_conf.git
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/ABigBright/alacritty_conf.git
+[submodule "i3"]
+	path = i3
+	url = https://github.com/ABigBright/i3wm_conf.git
