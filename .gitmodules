@@ -10,3 +10,6 @@
 [submodule "albert"]
 	path = albert
 	url = https://github.com/ABigBright/albert_conf.git
+[submodule "polybar"]
+	path = polybar
+	url = https://github.com/ABigBright/polybar_conf.git
